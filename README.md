@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/wang321)
+
+Hi there, I'm Ruifan Wang 👋
+
+**Something about me:**
+* 🎓 UPenn MSE CIS Class of 2023
+* 👨‍💻 
+* ✨ Aspiring Full-stack Software Engineer • Tech Enthusiast • Team Player
