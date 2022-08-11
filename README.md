@@ -14,7 +14,7 @@ Hi there, I'm Ruifan Wang 👋
 * 👨‍💻 Full-stack Web Developer for a start-up called [SportsBiz](https://www.sportsbiz.com) (part-time)
 * 📖 Coursework: Big Data Analytics • Introduction to Interactive Computer Graphics • Engineering Entrepreneuriship
 
-**Learn more about me via:** [resume](https://docs.google.com/document/d/1L7v1xKen99Dxwjo9vpGj-JbcD2etI3yw/edit?usp=sharing&ouid=112023775726123024798&rtpof=true&sd=true)
+**Learn more about me via:** [resume](https://docs.google.com/document/d/1L7v1xKen99Dxwjo9vpGj-JbcD2etI3yw/edit?usp=sharing&ouid=112023775726123024798&rtpof=true&sd=true) or [personal website](https://www.ruifanwang.com)
 
 #### Languages & Tools
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white">
