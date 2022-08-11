@@ -12,7 +12,7 @@ Hi there, I'm Ruifan Wang 👋
 
 **Currently working on:**
 * 👨‍💻 Full-stack Web Developer for a start-up called [SportsBiz](https://www.sportsbiz.com) (part-time)
-* :bank: DevOps Enginner Intern at Federal [Home Loan Bank of Dallas](https://www.fhlb.com) (recently completed)
+* :bank: DevOps Enginner Intern at [Federal Home Loan Bank of Dallas](https://www.fhlb.com) (recently completed)
 * 📖 Coursework: Big Data Analytics • Introduction to Interactive Computer Graphics • Engineering Entrepreneuriship
 
 **Learn more about me via:** [resume](https://github.com/ruw321/ruw321/blob/main/Wang_Resume_2023.pdf) or [personal website](https://www.ruifanwang.com)
