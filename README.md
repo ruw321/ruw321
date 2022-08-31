@@ -15,7 +15,7 @@ Hi there, I'm Ruifan Wang 👋
 * :bank: DevOps Engineer Intern at [Federal Home Loan Bank of Dallas](https://www.fhlb.com) (recently completed)
 * 📖 Coursework: Big Data Analytics • Introduction to Interactive Computer Graphics • Engineering Entrepreneuriship
 
-**Learn more about me via:** [resume](https://github.com/ruw321/ruw321/blob/main/Wang_Resume_2023.pdf) or [personal website](https://www.ruifanwang.com)
+**Learn more about me via:** [resume](https://github.com/ruw321/ruw321/blob/main/RuifanWang_Resume_2023.pdf) or [personal website](https://www.ruifanwang.com)
 
 #### Languages & Tools
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white">
