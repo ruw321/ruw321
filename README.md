@@ -8,12 +8,11 @@ Hi there, I'm Ruifan Wang 👋
 **Something about me:**
 * 🎓 UPenn MSE CIS Class of 2023
 * 👨‍🎓 Graduated from Lehigh University in 2021 majored in Computer Science and Business
-* ✨ Passionate Full-stack Software Engineer • Love to Learn • Team Player • Enprepreneurial 
+* ✨ Passionate Full-stack, Distributed Systems Software Engineer • Love to Learn • Team Player • Enprepreneurial 
 
 **Currently working on:**
-* 👨‍💻 Full-stack Web Developer for a start-up called [SportsBiz](https://www.sportsbiz.com) (part-time)
 * :bank: DevOps Engineer Intern at [Federal Home Loan Bank of Dallas](https://www.fhlb.com) (recently completed)
-* 📖 Coursework: Big Data Analytics • Introduction to Interactive Computer Graphics • Engineering Entrepreneuriship
+* 📖 Coursework: Distributed Systems • Database and Information Systems • Web3 Security
 
 **Learn more about me via:** [resume](https://github.com/ruw321/ruw321/blob/main/RuifanWang_Resume_2023.pdf) or [personal website](https://www.ruifanwang.com)
 
